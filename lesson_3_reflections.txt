@@ -1,3 +1,6 @@
 ?When would you want to use a remote repository rather than keeping all your work local?
 I can see no case in which I wouldn't want to keep my files remotely also, for backup purposes. 
 The only disadvantage is that those would be public on the github's free account.
+
+?Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Because Others people working on the same branch might add something I don't want yet in my local copy, conflicts may appear etc.. 
