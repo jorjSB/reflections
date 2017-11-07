@@ -6,4 +6,20 @@ What value do you think it offers?
 It's an intermediate area where you can add or delete files without commiting them,
 thus allowing you to create a commit after you're all set!
 
+?How can you use the staging area to make sure you have one commit per logical change?
+I can use the staging area to "gather mutiple files" and when finishing a task making a commit
+with those files into the repository!
+
+?What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When working on a project, trying a new feature, making big changes or splitting the project into
+different versions.
+
+?How do the diagrams help you visualize the branch structure?
+Diagrams help clear the branches and the commits on each one.
+
+?What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging 2 brancehs together unifies the code we're writing. Thus we can work on something separately, and after finishing we can merge those changes into our master branch. It's represented in the diagram like so, because we can keep track of the commits on each branch, and their parents. We can also see the results of the merging of the 2(or more) branches.
+
+?What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Auto: Pros: it aces the merging, by comparing the new files with the old one, so no manual input is neccesarry, meaning less work and tine spent on merging work. Cons: it cannot solve files that are in conflict! Manually: time waster, pros: can constantly check the code.
 
