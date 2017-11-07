@@ -1,0 +1,17 @@
+it ws much easier than searching in the entire text
+
+I can easily get, see and modify my current file based on the changes i've made to it
+and it's history
+
+What do you think are the pros and cons of manually choosing when to create a commit, 
+like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Pros: you can divide the code commited into logical pieces of code, that make up an entire
+request, if nit too big. 
+Cons: G. Docs for example saves automatically and you have no control on the size of the new version,
+no description for the save(to state the reason) and different versions can be too big, for example,
+or too small, if nothing substantial had been modified.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+
