@@ -1,0 +1,3 @@
+?When would you want to use a remote repository rather than keeping all your work local?
+I can see no case in which I wouldn't want to keep my files remotely also, for backup purposes. 
+The only disadvantage is that those would be public on the github's free account.
