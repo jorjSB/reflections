@@ -9,3 +9,6 @@ Because Others people working on the same branch might add something I don't wan
 Forks - clones only on GitHub! 
 Clones - clone an entire repository!
 Branches - Labels for fifferent commmits, can be seen as different branches that can be kept separated or can be merged together
+
+?What is the benefit of having a copy of the last known state of the remote stored locally?
+That I can make changes to it, modif it and so on, without affecting the remote branch.
