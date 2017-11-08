@@ -4,3 +4,8 @@ The only disadvantage is that those would be public on the github's free account
 
 ?Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Because Others people working on the same branch might add something I don't want yet in my local copy, conflicts may appear etc.. 
+
+?Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks - clones only on GitHub! 
+Clones - clone an entire repository!
+Branches - Labels for fifferent commmits, can be seen as different branches that can be kept separated or can be merged together
