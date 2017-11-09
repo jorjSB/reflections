@@ -12,3 +12,6 @@ Branches - Labels for fifferent commmits, can be seen as different branches that
 
 ?What is the benefit of having a copy of the last known state of the remote stored locally?
 That I can make changes to it, modif it and so on, without affecting the remote branch.
+
+?How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Without Git/Hub I would use mail or some messaging app, upload code, links etc.. That would be very hard for reviewing any code change and collaboration.
