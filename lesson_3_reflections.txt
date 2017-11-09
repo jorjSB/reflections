@@ -15,3 +15,6 @@ That I can make changes to it, modif it and so on, without affecting the remote 
 
 ?How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Without Git/Hub I would use mail or some messaging app, upload code, links etc.. That would be very hard for reviewing any code change and collaboration.
+
+?When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When multiple people work on the same project it's a good ideea to work on a separate branch, so nothing goes to origin/master directly. This allows a lot of flexibility for changes, code review made simpler etc.
